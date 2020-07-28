@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a fullstack developer based in Medellin - Colombia.
+
 <!--
 **rafodelmal/rafodelmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
